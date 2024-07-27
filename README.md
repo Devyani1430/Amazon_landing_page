@@ -13,6 +13,10 @@ This project is a simulated online shopping platform designed to mimic the basic
 * CSS: Styling and layout of the website
 * JavaScript: Dynamic behavior and user interactions
 
+**Screenshot**
+
+![landing_page](Screenshot (57).png)
+
 **Installation**
 To run this project locally:
 1. Clone the repository: `git clone https://github.com/your-username/amazon-clone.git`
