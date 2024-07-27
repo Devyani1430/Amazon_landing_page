@@ -15,7 +15,7 @@ This project is a simulated online shopping platform designed to mimic the basic
 
 **Screenshot**
 
-![landing_page](Screenshot (57).png)
+![landing_page](screen.png)
 
 **Installation**
 To run this project locally:
