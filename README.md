@@ -8,14 +8,15 @@ This project is a simulated online shopping platform designed to mimic the basic
 * Product catalog with various product categories
 * Online shopping landing page
 
+**Screenshot**
+
+![landing_page](screen.png)
+
 **Technologies Used**
 * HTML: Structure of the web pages
 * CSS: Styling and layout of the website
 * JavaScript: Dynamic behavior and user interactions
 
-**Screenshot**
-
-![landing_page](screen.png)
 
 **Installation**
 To run this project locally:
